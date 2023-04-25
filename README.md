@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Fharhanamrin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, Saya Fharhan Amrin Sitanggang 👋
+Tentang Saya
+Tulis deskripsi singkat tentang diri Anda, misalnya:
 
-<!---
-Fharhanamrin/Fharhanamrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Seorang pengembang perangkat lunak berpengalaman dengan lebih dari 5 tahun pengalaman
+Berfokus pada pengembangan aplikasi web menggunakan teknologi-teknologi seperti React, Node.js, dan PostgreSQL
+Suka belajar hal baru dan selalu mencari tantangan baru dalam karir saya
+Teknologi yang Saya Kuasai
+Teknologi 1
+Teknologi 2
+Teknologi 3
+Statistik GitHub Saya
+GitHub Stats
+
+Proyek Terbaru Saya
+[Nama Proyek 1](link ke proyek)
+Deskripsi singkat tentang proyek Anda.
+
+[Nama Proyek 2](link ke proyek)
+Deskripsi singkat tentang proyek Anda.
+
+Cara Menghubungi Saya
+Email: email@example.com
+LinkedIn: [nama Anda](link profil LinkedIn Anda)
+Inspirasi
+Kutipan inspiratif atau filosofi hidup Anda.
+
+Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau hanya ingin mengobrol! Terima kasih telah mengunjungi profil GitHub saya.
