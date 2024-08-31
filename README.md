@@ -1,6 +1,4 @@
 Hi, Saya Fharhan Amrin Sitanggang 👋
-Tentang Saya
-Tulis deskripsi singkat tentang diri Anda, misalnya:
 
 Seorang pengembang perangkat lunak berpengalaman dengan lebih dari 5 tahun pengalaman
 Berfokus pada pengembangan aplikasi web menggunakan teknologi-teknologi seperti React, Node.js, dan mysql, blockchain, web3, smart-contract
