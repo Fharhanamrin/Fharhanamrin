@@ -6,11 +6,8 @@ Suka belajar hal baru dan selalu mencari tantangan baru dalam karir saya.
 
 Proyek Terbaru Saya
 [https://indonesiaretailsummit.com/]
-Deskripsi singkat tentang proyek Anda.
-
-[https://inabuyer.com/](link ke proyek)
-Deskripsi singkat tentang proyek Anda.
-
+[https://inabuyer.com/]
+https://jitex.id/
 Saya Sedang Fokus Pengembangan Sebuah Sistem Aplikasi Pemesanan Tiketing(full sistem) dari pemesanan, check in & check out, notif, print badgem reporting dll
 
 Cara Menghubungi Saya
