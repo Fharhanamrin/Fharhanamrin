@@ -1,7 +1,7 @@
 Hi, Saya Fharhan Amrin Sitanggang 👋
 
-Seorang pengembang perangkat lunak berpengalaman dengan lebih dari 5 tahun pengalaman
-Berfokus pada pengembangan aplikasi web menggunakan teknologi-teknologi seperti React, Node.js, dan mysql, blockchain, web3, smart-contract
+Seorang pengembang perangkat lunak berpengalaman dengan lebih dari 6++ tahun pengalaman
+Berfokus pada pengembangan aplikasi web menggunakan teknologi-teknologi seperti PHP(Laravel, Yii2),Javascript(React, Node.js) dan mysql, blockchain, web3, smart-contract
 Suka belajar hal baru dan selalu mencari tantangan baru dalam karir saya.
 
 Proyek Terbaru Saya
