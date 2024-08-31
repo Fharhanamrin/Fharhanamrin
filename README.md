@@ -4,11 +4,7 @@ Seorang pengembang perangkat lunak berpengalaman dengan lebih dari 6++ tahun pen
 Berfokus pada pengembangan aplikasi web menggunakan teknologi-teknologi seperti PHP(Laravel, Yii2),Javascript(React, Node.js) dan mysql, blockchain, web3, smart-contract
 Suka belajar hal baru dan selalu mencari tantangan baru dalam karir saya.
 
-Proyek Terbaru Saya
-[https://indonesiaretailsummit.com/]
-[https://inabuyer.com/]
-https://jitex.id/
-Saya Sedang Fokus Pengembangan Sebuah Sistem Aplikasi Pemesanan Tiketing(full sistem) dari pemesanan, check in & check out, notif, print badgem reporting dll
+Saya Sedang Fokus Pengembangan Sebuah Sistem Aplikasi Pemesanan Tiketing(full sistem) dari pemesanan, check in & check out, notif, print badgem reporting, beberapa event yang pakai sistem saya jitex, indonesia retail summit, inabuyer.
 
 Cara Menghubungi Saya
 Email    : fharhanamrin028@gmail.com
