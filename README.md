@@ -5,7 +5,7 @@ Berfokus pada pengembangan aplikasi web menggunakan teknologi-teknologi seperti 
 Suka belajar hal baru dan selalu mencari tantangan baru dalam karir saya.
 
 Proyek Terbaru Saya
-[https://indonesiaretailsummit.com/](link ke proyek)
+[https://indonesiaretailsummit.com/]
 Deskripsi singkat tentang proyek Anda.
 
 [https://inabuyer.com/](link ke proyek)
