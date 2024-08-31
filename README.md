@@ -1,13 +1,11 @@
-Hi, Saya Fharhan Amrin Sitanggang 👋
+Hi, I'm Fharhan Amrin Sitanggang 👋
+I'm an experienced software developer with over 6 years of expertise, focusing on web application development using technologies like PHP (Laravel, Yii2), JavaScript (React, Node.js), MySQL, blockchain, web3, and smart contracts. I have a passion for learning new things and always seek new challenges in my career.
 
-Seorang pengembang perangkat lunak berpengalaman dengan lebih dari 6++ tahun pengalaman
-Berfokus pada pengembangan aplikasi web menggunakan teknologi-teknologi seperti PHP(Laravel, Yii2),Javascript(React, Node.js) dan mysql, blockchain, web3, smart-contract
-Suka belajar hal baru dan selalu mencari tantangan baru dalam karir saya.
+Currently, I'm focusing on:
+Developing a comprehensive ticketing system that covers booking, check-in & check-out, notifications, badge printing, and reporting. My system is being used in several events, including JITEX, Indonesia Retail Summit, and INABuyer.
 
-Saya Sedang Fokus Pengembangan Sebuah Sistem Aplikasi Pemesanan Tiketing(full sistem) dari pemesanan, check in & check out, notif, print badgem reporting, beberapa event yang pakai sistem saya jitex, indonesia retail summit, inabuyer.
-
-Cara Menghubungi Saya
-Email    : fharhanamrin028@gmail.com
-LinkedIn : https://www.linkedin.com/in/fharhan-amrin-b68a06143/
-youtube  : https://www.youtube.com/@tempatbelajarbersama
-Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau hanya ingin mengobrol! Terima kasih telah mengunjungi profil GitHub saya.
+How to reach me:
+Email: fharhanamrin028@gmail.com
+LinkedIn: Fharhan Amrin
+YouTube: Tempat Belajar Bersama
+Feel free to reach out if you have any questions or just want to chat! Thank you for visiting my GitHub profile
