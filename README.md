@@ -80,7 +80,7 @@ Based on my experience and the images you provided, here are some key projects a
 Feel free to reach out if you have any questions or just want to chat!
 
 - **Email:** fharhanamrin028@gmail.com
-- **LinkedIn:** [Fharhan Amrin](LinkedIn Profile URL - *Please add your LinkedIn profile URL here*)
-- **YouTube:** [Tempat Belajar Bersama](YouTube Channel URL - *Please add your YouTube channel URL here*)
+- **LinkedIn:** [Fharhan Amrin](LinkedIn Profile URL - *https://www.linkedin.com/in/fharhan-amrin-b68a06143/*
+- **YouTube:** [Tempat Belajar Bersama](YouTube Channel URL - *https://www.youtube.com/@tempatbelajarbersama*)
 
 Thank you for visiting my GitHub profile!
