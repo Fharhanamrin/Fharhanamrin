@@ -1,86 +1,173 @@
-# Hi, I'm Fharhan Amrin Sitanggang 👋
+# 👋 Hi, I'm **Fharhan Amrin Sitanggang**
 
-## About Me
+### 💻 Full-Stack Developer • 6+ Years Experience  
+### 🚀 Focused on Web, Mobile, and Scalable Backend Architecture  
 
-I'm an experienced software developer with over 6 years of expertise, specializing in web application development. My focus is on creating robust and scalable solutions using a variety of technologies, including:
+---
 
-- PHP (Laravel, Yii2)
-- JavaScript (React, Node.js)
-- MySQL
-- Blockchain, Web3, and Smart Contracts
+## 🧑‍💻 About Me
 
-I have a passion for continuous learning and am always seeking new challenges to expand my skill set and contribute to innovative projects.
+I’m a software developer with **6+ years** of real-world experience building full-stack applications, scalable backend services, and production-grade systems.
 
-## Current Focus
+My expertise covers modern development across:
 
-Currently, I'm dedicated to developing a comprehensive ticketing system that streamlines event management. This system covers various aspects, including:
+- **Web Development:** React, Next.js, TailwindCSS, SCSS, jQuery  
+- **Mobile Development:** React Native  
+- **Backend Engineering:** Golang (concurrency, middleware, Redis Streams, pub/sub, worker consumers), PHP (Laravel, Yii2)  
+- **Databases:** MySQL, PostgreSQL (JSON, migrations, joins, optimization)  
+- **Infrastructure & Tools:** Docker, Redis, Git, SSH, API design  
+- **Other:** Blockchain/Web3, system design, rate limiting (token bucket), security basics  
 
-- Booking
-- Check-in & Check-out
-- Notifications
-- Badge Printing
-- Reporting
+I enjoy solving complex technical problems, designing clean architectures, and continuously improving through learning and experimentation.
 
-My ticketing system is currently being utilized in several prominent events, such as JITEX, Indonesia Retail Summit, and INABuyer.
+---
 
-## Projects & Experience
+## 🔥 Current Focus
 
-Based on my experience and the images you provided, here are some key projects and technologies I've worked with:
+I'm building a **complete ticketing platform**, including:
 
-### 1. Ticketing System (Landing Page and Setting Dashboard)
-- **Description:** A comprehensive ticketing system with features for event creation, ticket management, registration links, and badge generation.
-- **Key Features:**
-  - Event creation and management
-  - Ticket sales and management
-  - Registration link generation
-  - Event badge generation
-  - Payment Gateway Integration (Duitku)
-- **Technologies:**
-  - Yii2
-  - PayPal
-  - Firebase
-  - Email
-  - jQuery
-  - Payment Gateway (Duitku)
+- Ticket booking & registration  
+- Check-in / Check-out  
+- Badge printing  
+- Notification system (Email, WhatsApp, Webhook, Push)  
+- Reporting dashboard  
+- Integrations (Duitku, PayPal, Firebase)  
 
-### 2. Web Dashboard Seller Waorderaja
-- **Description:** A web dashboard for managing seller activities and order processing.
-- **Key Features:**
-  - Monitoring order status
-  - Managing store/outlet information (address, payment details)
-  - Updating order status and canceling orders
-  - Adding and managing products and promotions
-- **Technologies:**
-  - Yii2
-  - MySQL
-  - Firebase
-  - Payment Gateway (Duitku)
+Used in big events:
 
-### 3. Mobile App Waorderaja (Android/iOS)
-- **Description:** A mobile application for managing orders and seller activities.
-- **Key Features:**
-  - User-friendly interface for managing orders
-  - Real-time updates on order status
-  - Secure payment gateway integration
-- **Technologies:**
-  - React Native
-  - Firebase
-  - Yii2
-  - Payment Gateway (Duitku)
+- **JITEX**  
+- **Indonesia Retail Summit**  
+- **INABuyer**
 
-## Skills
+---
 
-- **Programming Languages:** PHP, JavaScript, Go
-- **Frameworks/Libraries:** Laravel, Yii2, React, Node.js, Bootstrap, CodeIgniter, jQuery
-- **Databases:** MySQL, PostgreSQL
-- **Other:** Blockchain, Web3, Smart Contracts, RESTful APIs, Git, Docker
+## 💼 Highlighted Projects
 
-## Contact
+### **1️⃣ Event Ticketing System**
+A complete event & ticketing ecosystem.
 
-Feel free to reach out if you have any questions or just want to chat!
+**Features:**  
+- Event creation  
+- Ticket sales & registration  
+- Badge generation  
+- Payment Gateway integration  
+- Multi-channel notifications (email, WhatsApp, webhook)  
 
-- **Email:** fharhanamrin028@gmail.com
-- **LinkedIn:** [Fharhan Amrin](LinkedIn Profile URL - *https://www.linkedin.com/in/fharhan-amrin-b68a06143/*
-- **YouTube:** [Tempat Belajar Bersama](YouTube Channel URL - *https://www.youtube.com/@tempatbelajarbersama*)
+**Tech Stack:**  
+`Yii2` · `Firebase` · `PayPal` · `Duitku` · `MySQL`
 
-Thank you for visiting my GitHub profile!
+---
+
+### **2️⃣ Waorderaja – Seller Web Dashboard**
+A dashboard for sellers to manage their operations.
+
+**Features:**  
+- Real-time order updates  
+- Outlet & payment management  
+- Product & promo controls  
+
+**Tech Stack:**  
+`Yii2` · `MySQL` · `Firebase`
+
+---
+
+### **3️⃣ Waorderaja – Mobile App**
+Cross-platform app for order management.
+
+**Tech Stack:**  
+`React Native` · `Firebase` · `Yii2`
+
+---
+
+## 🛠️ Skills & Technologies
+
+### **⚡ Core Programming**
+`Go` · `PHP` · `JavaScript` · `TypeScript` · `Java`
+
+---
+
+### **⚙ Backend Engineering**
+- Golang (REST API, middleware, concurrency, worker consumers, context)  
+- Redis Streams (publisher/consumer)  
+- Token Bucket Rate Limiting  
+- Queue processing  
+- PostgreSQL optimization  
+- API design (request validation, error handling)
+
+---
+
+### **🧩 Frontend Development**
+- React  
+- Next.js  
+- TailwindCSS  
+- SCSS  
+- shadcn/ui  
+- Zustand  
+- Custom Hooks Architecture  
+- Bootstrap  
+- jQuery
+
+---
+
+### **📱 Mobile**
+- React Native  
+- Expo  
+- Mobile routing & API integration
+
+---
+
+### **🗄 Databases**
+- PostgreSQL  
+- MySQL  
+- JSON columns  
+- SQL join optimization  
+- Migration management (Go-Migrate)
+
+---
+
+### **🛠 DevOps & Tools**
+- Docker  
+- Redis  
+- Git & SSH keys  
+- Build pipelines (Go build, Node build)  
+- Linux environment (Ubuntu, Kali, PopOS)  
+
+---
+
+### **🔐 Security & Ethical Hacking (Learning)**
+- Reconnaissance basics  
+- Network fundamentals (OSI Model, Hub, WiFi concepts)  
+- Linux pentesting basics  
+- Security mindset & threat modeling  
+
+---
+
+### **🏦 Blockchain & Web3**
+- Wallet flow understanding  
+- Smart contract basics  
+- Tokenomics understanding  
+- Crypto trading psychology  
+
+---
+
+## 🎓 Recently Studying / Improving
+- Golang Middleware (full-stack implementation)  
+- Redis Streams with priority queue (High/Medium/Low channels)  
+- React Native application structure  
+- Java OOP for academic assignments  
+- Professional Git workflow (SSH key auth, branches, push fix)  
+- Rate limiting algorithm (Token Bucket)  
+- System design (notification architecture)  
+
+---
+
+## 📫 Contact Me
+
+- **Email:** fharhanamrin028@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/fharhan-amrin-b68a06143/  
+- **YouTube:** https://www.youtube.com/@tempatbelajarbersama  
+
+---
+
+⭐ **Thanks for visiting my GitHub!**  
+Always open for collaboration, freelance opportunities, or discussions about tech.
